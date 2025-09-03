@@ -21,4 +21,12 @@ START --> ChatBot  --> END
             |
    External Tools integration  --  reACT Agent
 
-Lets i mplement above   
+   We have stateGraph and memory..both are different
+
+Lets implement above   
+
+In code
+
+add_messages is called reducer
+
+In a session,when have a conversation every out put is saved in state graph on a variable which holds a list of items.So with the help of reducers we can append any type of data onto list rather than overidding it
