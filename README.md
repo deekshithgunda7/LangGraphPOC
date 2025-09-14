@@ -33,4 +33,4 @@ In a session,when have a conversation every out put is saved in state graph on a
 
 
 
-lets build it 
+lets build it from 
