@@ -3,6 +3,11 @@ geoffrey hinton and yann lecun
 RAG AND MCP
 LangGraph basic
 
+
+to acticate virtual env using .venv\Scripts\activate
+to add library uv add -r requirements.txt
+
+
 Build Basic ChatBot using LangGraph Graph API
 Components of LangGraph
 
