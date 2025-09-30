@@ -40,4 +40,4 @@ In a session,when have a conversation every out put is saved in state graph on a
 
 lets build it from scratch
 
-ReACT Agent Usage
+ReACT Agent Usage plays important role -- > Act , Observe and Reason  ---> LLM to toolnode for(AI news) and again LLm to ToolNode(for 5 * 5) and to end this is reACT agent Architecture
