@@ -40,4 +40,9 @@ In a session,when have a conversation every out put is saved in state graph on a
 
 lets build it from scratch
 
-ReACT Agent Usage plays important role -- > Act , Observe and Reason  ---> LLM to toolnode for(AI news) and again LLm to ToolNode(for 5 * 5) and to end this is reACT agent Architecture
+ReACT Agent Usage plays important role -- > Act , Observe and Reason  ---> LLM to toolnode for(AI news) and again LLm to ToolNode(for 5 * 5) and to end this is reACT agent Architecture\
+
+
+
+MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.
+Using MCP, AI applications like Claude or ChatGPT can connect to data sources (e.g. local files, databases), tools (e.g. search engines, calculators) and workflows (e.g. specialized prompts)—enabling them to access key information and perform tasks.
