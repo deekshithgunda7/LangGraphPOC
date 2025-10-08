@@ -1,4 +1,4 @@
-geoffrey hinton and yann lecun
+geoffrey hinton and yann lecun ,Andrew Ng
 
 RAG AND MCP
 LangGraph basic
