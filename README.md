@@ -1,4 +1,4 @@
-geoffrey hinton and yann lecun ,Andrew Ng 
+geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
 RAG AND MCP
 LangGraph basic
