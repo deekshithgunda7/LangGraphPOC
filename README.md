@@ -1,7 +1,7 @@
 geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
 RAG AND MCP
-LangGraph basic
+LangGraph basic 
 
 
 to acticate virtual env using .venv\Scripts\activate
