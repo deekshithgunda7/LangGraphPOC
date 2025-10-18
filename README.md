@@ -12,7 +12,7 @@ to add library uv add -r requirements.txt
 Build Basic ChatBot using LangGraph  Graph  API
 Components of LangGraph 
 
-1 - Edge  -- Link 2 nodes
+1 - Edge  -- Link 2 nodes 
 2 - Node  -- Implementation of any workflow(EX:ytvideo to transcript generator)
 3 - State  -- Here you save the output of  one of the  workflow and can be used in any workflo w as per your graph
 
