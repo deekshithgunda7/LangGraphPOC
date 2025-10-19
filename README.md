@@ -9,7 +9,7 @@ to acticate virtual env using .venv\Scripts\activate
 to add library uv add -r requirements.txt
 
 
-Build Basic ChatBot using LangGraph  Graph  API
+Build Basic ChatBot using LangGraph  Graph  API 
 Components of LangGraph 
 
 1 - Edge  -- Link 2 nodes 
