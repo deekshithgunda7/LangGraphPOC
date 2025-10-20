@@ -2,7 +2,7 @@ geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
 RAG AND MCP
 LangGraph basic 
-Google Mixture of Recursions paper explained
+Google Mixture of Recursions  paper explained
 
 
 to acticate virtual env using .venv\Scripts\activate
