@@ -17,7 +17,7 @@ Components of LangGraph
 3 - State  -- Here you save the output of  one of the  workflow and can be used in any workflo w as per your graph
 
 
-- maintained state among the nodes is called stateGraph
+- maintained state among the nodes is called  stateGraph
 - Graph API
 - Functional API
 
