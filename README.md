@@ -1,5 +1,7 @@
 geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
+Andrej karpathy for neural network
+
 RAG AND MCP
 LangGraph basic 
 Google Mixture of Recursions  paper explained
