@@ -48,5 +48,5 @@ ReACT Agent Usage plays important role -- > Act , Observe and Reason  ---> LLM t
 MCP (Model Context Protocol) is an open-source standard for connecting AI applications to external systems.
 Using MCP, AI applications like Claude or ChatGPT can connect to data sources (e.g. local files, databases), tools (e.g. search engines, calculators) and workflows (e.g. specialized prompt s)—enabling them to access key information and perform tasks.
  
- 
-Distributed computing for multiple system
+
+Distributed computing for multiple system for availabulity
