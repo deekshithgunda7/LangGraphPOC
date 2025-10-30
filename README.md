@@ -1,6 +1,6 @@
 geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
-Andrej karpathy for neural network
+Andrej karpathy for neural network and deep learning
 
 RAG AND MCP
 LangGraph basic 
