@@ -1,6 +1,6 @@
 geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
-Andrej karpathy for neural network and deep learning
+Andrej karpathy for neural network and deep learning stareted today
 bryc deep leaning    
    
 RAG AND MCP
