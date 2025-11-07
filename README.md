@@ -4,7 +4,7 @@ Andrej karpathy for neural network and deep learning stareted today
 bryc deep leaning    
    
 RAG AND MCP
-LangGraph basic 
+LangGraph basic   
 Google Mixture of Recursions  paper explained      
 
 
