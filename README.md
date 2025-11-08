@@ -1,7 +1,7 @@
 geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
 Andrej karpathy for neural network and deep learning stareted today
-bryc deep leaning    
+bryc deep leaning   stared
    
 RAG AND MCP
 LangGraph basic   
