@@ -1,0 +1,9 @@
+
+A tranformation is linear,if it has 2 properties
+ -- > All lines must remain lines without getting curved
+ -- > Origin must remain fixed in place
+
+For Linear transformation,Gridlines remain parallel and evenly spaced
+
+The important take away here is that every time you see a matrix,you interpret it as certain tranformation of space ,then you understand linear algerbra
+deeply
