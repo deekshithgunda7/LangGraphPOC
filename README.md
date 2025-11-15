@@ -2,13 +2,13 @@ geoffrey hinton and yann lecun ,Andrew Ng  deep learning
 
 Andrej karpathy for neural network and deep learning stareted today
 bryc deep leaning   stared
-steve brunton for staticis and data sciecnce and 
+steve brunton for staticis and data sciecnce and cd
    
 RAG AND MCP
 LangGraph basic   
 Google Mixture of Recursions  paper explained      
 LLM Vs Diffusion modals
-
+ y
 
 to acticate virtual env using .venv\Scripts\activate
 to add library uv add -r requirements.txt
