@@ -8,6 +8,8 @@ RAG AND MCP
 LangGraph basic   
 Google Mixture of Recursions  paper explained      
 LLM Vs Diffusion modals
+
+Today I started math of deep learning
  
 
 to acticate virtual env using .venv\Scripts\activate
